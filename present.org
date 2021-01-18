@@ -1,6 +1,6 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_TITLE_SLIDE: <h1>%t</h1>%a
-#+REVEAL_EXTRA_CSS: https://raw.githubusercontent.com/komem3/org-reveal-template/main/reveal.css
+#+REVEAL_EXTRA_CSS: ./reveal.css
 #+REVEAL_INIT_OPTIONS: width:1200, height:800, controlsLayout: 'edges',
 #+REVEAL_INIT_OPTIONS: keyboard:true,overview:true,slideNumber:"c/t"
 #+OPTIONS: toc:nil num:nil
