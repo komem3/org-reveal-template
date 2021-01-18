@@ -1,0 +1,23 @@
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides #sec-title-slide {
+  text-align: center;
+}
+
+.reveal h1 {
+  font-size: 5rem;
+}
+
+.reveal h2 {
+  font-size: 3.5rem;
+}
+
+.reveal h3 {
+  font-size: 3.5rem;
+}
+
+.reveal .slide-number {
+  font-size: 1.5rem;
+}
