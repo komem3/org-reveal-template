@@ -9,5 +9,6 @@
 #+REVEAL_TRANS: none
 #+REVEAL_THEME: night
 #+REVEAL_HLEVEL: 2
+#+OPTIONS: \n:t
 #+title:
 #+author:
